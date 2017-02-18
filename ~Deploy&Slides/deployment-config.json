@@ -1,0 +1,9 @@
+{
+    "type": "sftp",
+    "host": "play.stackup.sg",
+    "username": "6awejc",
+    "password": "gu7UJgVN3opYtKT",
+    "port": 22,
+    "remotePath": "/home/6awejc/",
+    "uploadOnSave": false
+}
