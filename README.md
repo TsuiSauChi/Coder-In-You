@@ -1,4 +1,4 @@
-# The Coder in You Course by NUS ISS
+# The Coder in You - Coding Course by NUS ISS
 The Coder in You Course Schedule for Jan 2017 Class (Full Time)
 
 Venue: NUS ISS - StackUp Studio
